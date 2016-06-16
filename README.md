@@ -7,6 +7,7 @@
 - rbenv 1.0.0
 - Ruby 2.3.1p112
 - Rails 4.2.6
+- Production DB : PostgreSQL 0.18.4
 
 ### Completed Feature Info
 - __Post__ CRUD
