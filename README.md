@@ -17,6 +17,7 @@
 - __Login Cookie__
 
 ### Upcoming Feature Info
+- Authority Controll 
 - Front-end Design improve
 
 > Forked by
