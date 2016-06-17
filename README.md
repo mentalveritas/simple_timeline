@@ -13,10 +13,11 @@
 - __Post__ CRUD
 - __Comment__ Write(except CRUD)
 - __Sign Up__
+- __Sign In, Sign Out__
+- __Login Cookie__
 
 ### Upcoming Feature Info
-- __Sign In__
-- Authority Access Controll
+- Front-end Design improve
 
 > Forked by
 Codelion.
