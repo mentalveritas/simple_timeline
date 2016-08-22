@@ -18,4 +18,5 @@
 
 ### Upcoming Feature Info
 - Authority Controll(E-mail authentication)
+- Social Sign-in
 - Front-end Design improve
