@@ -17,8 +17,5 @@
 - __Login Cookie__
 
 ### Upcoming Feature Info
-- Authority Controll 
+- Authority Controll(E-mail authentication)
 - Front-end Design improve
-
-> Forked by
-Codelion.
